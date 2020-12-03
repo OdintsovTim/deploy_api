@@ -19,7 +19,6 @@ git clone https://github.com/OdintsovTim/infra_sp2
 Add .env to main folder by the following template:
 
 ```
-DB_ENGINE=django.db.backends.postgresql
 DB_NAME=postgres
 POSTGRES_USER=postgres
 POSTGRES_PASSWORD='write your db password'
