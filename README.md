@@ -25,7 +25,6 @@ POSTGRES_USER=postgres
 POSTGRES_PASSWORD='write your db password'
 DB_HOST=db
 DB_PORT=5432
-SECRET_KEY='you can use https://djecrety.ir/ for example'
 ```
 
 ## Deployment
