@@ -53,3 +53,7 @@ python manage.py loaddata fixtures.json
 * [Docker](https://docs.docker.com/) - The web framework used
 * [Django](https://docs.djangoproject.com/en/3.0/) - Dependency Management
 * [Django Rest Framework](https://www.django-rest-framework.org/tutorial/quickstart/) - Used to generate RSS Feeds
+
+## Authors
+
+* **Timur Odintsov** - *Initial work* - [OdintsovTim](https://github.com/OdintsovTim)
